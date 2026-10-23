@@ -1,1 +1,9 @@
-README
+target/
+.settings/
+.classpath
+.project
+.metadata/
+*.class
+.idea/
+RemoteSystemsTempFiles/
+.recommenders/
